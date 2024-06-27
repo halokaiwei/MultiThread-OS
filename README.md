@@ -5,6 +5,7 @@ The threads should output content like these:
 The Component-A thread may print messages such as​
 
 -----Component-A: Unit-1 produced.-----
+
 -----Component-A: Unit-2 produced.​-----
 
 -------------------------------------------------------------
