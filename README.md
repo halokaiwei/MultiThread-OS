@@ -1,5 +1,7 @@
 A multithread program to simulate the production flow. [threading & synchronisation support] - Java
 
+Please refer to Guideline.pdf
+
 The threads should output content like these:
 
 The Component-A thread may print messages such as​
