@@ -1,8 +1,18 @@
-This is the assignment for UECS2103/2403 Operating System in May 2022. 
-A multithread program to simulate the production flow. [threading & synchronisation support].
-For reference use only.
+A multithread program to simulate the production flow. [threading & synchronisation support] - Java
 
-Thanks to my teamamtes:
-E Zhong Lin,
-Yoon Wei Kai,
-Lim Zheng Wei.
+The threads should output content like these:
+
+The Component-A thread may print messages such as​
+
+-----Component-A: Unit-1 produced.-----
+-----Component-A: Unit-2 produced.​-----
+
+-------------------------------------------------------------
+
+The Assembler thread may print messages such as​
+
+-----Assembler: waiting for components  Assembler: Product-1 completed.​-----
+
+-----Assembler: waiting for components​-----
+
+-----Assembler: Product-2 completed.​-----
